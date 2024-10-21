@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://topingre.github.io/topingre.txt.gz
+Sitemap: https://topingre.github.io/app/topingre.txt.gz
+Sitemap: https://topingre.github.io/assets/topingre.txt.gz
+Sitemap: https://topingre.github.io/css/topingre.txt.gz
+Sitemap: https://topingre.github.io/includes/topingre.txt.gz
+Sitemap: https://topingre.github.io/item/topingre.txt.gz
+Sitemap: https://topingre.github.io/src/topingre.txt.gz
